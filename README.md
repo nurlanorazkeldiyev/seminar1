@@ -1,2 +1,2 @@
 # seminar1
-just another repository
+Orazkeldiyev Nurlan  Silkway school lyceum
