@@ -1,4 +1,4 @@
-from myclass import MyClass
+from myclass import travell
     
 
 a = MyClass("Kazakhstan","Taraz","march")
